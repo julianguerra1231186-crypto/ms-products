@@ -1,4 +1,6 @@
 # API Gateway - PulpApp
+![](https://github.com/julianguerra1231186-crypto/ms-products/blob/main/api-gateway/26.png).png)
+
 ## Descripción
 
 El **API Gateway** es el componente encargado de centralizar y gestionar las solicitudes de los clientes hacia los microservicios del sistema **PulpApp - Sistema Distribuido de Venta Online de Pulpas Naturales**.
