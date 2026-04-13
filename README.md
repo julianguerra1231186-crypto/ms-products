@@ -1,3 +1,10 @@
+<!--
+CONFIG
+FULL_NAME:Julian Andres Guerra Garcia
+GITHUB_USER: julianguerra1231186@gmail.com
+CODE_ORGANIZATION: code-corhuila
+-->
+
 ![](https://github.com/julianguerra1231186-crypto/ms-products/blob/main/api-gateway/miroservicio2.png)
 # ms-products — Microservicio de Catálogo de Productos
 
