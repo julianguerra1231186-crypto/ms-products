@@ -1,6 +1,9 @@
 ![](https://github.com/julianguerra1231186-crypto/ms-products/blob/main/api-gateway/miroservicio2.png)
 # ms-products — Microservicio de Catálogo de Productos
 
+### Se deja evidencia de todas las Historias de Usuario en la mesa de trabajo:
+   - [Mesa De Trabajo](https://julianguerra1231186-1773894024267.atlassian.net/?continue=https%3A%2F%2Fjulianguerra1231186-1773894024267.atlassian.net%2Fwelcome%2Fsoftware%3FprojectId%3D10000&atlOrigin=eyJpIjoiOTdhMWY4ZGU5N2YwNDQ0MDk3NTZjODkxYTU5ZWVlZWQiLCJwIjoiamlyYS1zb2Z0d2FyZSJ9)
+     
 ## Descripción general
 
 `ms-products` es el microservicio responsable del catálogo de pulpas de fruta de PulpApp. Gestiona los productos y sus categorías, expone una API REST consumida tanto por el frontend como por `ms-orders` cuando necesita consultar el precio real de un producto al momento de crear un pedido.
